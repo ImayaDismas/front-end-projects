@@ -75,50 +75,50 @@ body {
 
 .icon--facebook a {
   background-color: #3b5998;
-  background-image: url("http://benhodgson.net/codepen/social/facebook-128.png");
+  background-image: url("../img/facebook.png");
 }
 
 .icon--twitter a {
   background-color: #00aced;
-  background-image: url("http://benhodgson.net/codepen/social/twitter-128.png");
+  background-image: url("../img/twitter.png");
 }
 
 .icon--linkedin a {
   background-color: #007fb1;
-  background-image: url("http://benhodgson.net/codepen/social/linkedin-128.png");
+  background-image: url("../img/linkedin.png");
 }
 
 .icon--instagram a {
   background-color: #5c3d2e;
-  background-image: url("http://benhodgson.net/codepen/social/instagram-128.png");
+  background-image: url("../img/instagram.png");
 }
 
 .icon--flickr a {
   background-color: #c9317d;
-  background-image: url("http://benhodgson.net/codepen/social/flickr-128.png");
+  background-image: url("../img/flickr.png");
 }
 
 .icon--spotify a {
   background-color: #80b719;
-  background-image: url("http://benhodgson.net/codepen/social/spotify-128.png");
+  background-image: url("../img/spotify.png");
 }
 
 .icon--soundcloud a {
   background-color: #f60;
-  background-image: url("http://benhodgson.net/codepen/social/soundcloud-128.png");
+  background-image: url("../img/soundcloud.png");
 }
 
 .icon--lastfm a {
   background-color: #d51007;
-  background-image: url("http://benhodgson.net/codepen/social/lastfm-128.png");
-}
+  background-image: url("../img/lastfm.png");
+}0
 
 .icon--kickstarter a {
   background-color: #87c442;
-  background-image: url("http://benhodgson.net/codepen/social/kickstarter-128.png");
+  background-image: url("../img/kickstarter.png");
 }
 
 .icon--github a {
   background-color: #4183c4;
-  background-image: url("http://benhodgson.net/codepen/social/github-128.png");
+  background-image: url("../img/github.png");
 }
